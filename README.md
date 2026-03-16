@@ -2,7 +2,7 @@
 
 Estimates USD revenue for top Roblox games using live player data and Roblox's published ARPDAU — Python scraper + web dashboard.
 
-![Dashboard Preview](screenshots/dashboard.png)
+> Run the scraper and open `index.html` to see the dashboard.
 
 ## How It Works
 
@@ -37,12 +37,6 @@ Game Daily Revenue = (concurrent_players × 12) × $0.0285 × 0.7
 - **All-Time** = daily × days since game creation
 
 Player counts are fetched live from the Roblox public API — no authentication required.
-
-## Screenshots
-
-![Terminal Output](screenshots/terminal.png)
-
-![Bar Chart](screenshots/chart.png)
 
 ## Setup
 
