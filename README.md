@@ -111,3 +111,4 @@ Adopt Me!, Brookhaven RP, Rivals, Blox Fruits, Murder Mystery 2, Steal a Brainro
 ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
+Co-Authored-By: Claude <claude@users.noreply.github.com>
